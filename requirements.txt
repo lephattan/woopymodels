@@ -1,0 +1,6 @@
+flake8==6.0.0
+mccabe==0.7.0
+pycodestyle==2.10.0
+pydantic==1.10.2
+pyflakes==3.0.1
+typing-extensions==4.4.0
