@@ -188,7 +188,7 @@ class ProductVariation(BaseModel):
     shipping_class_id: Optional[int] = None
     tags: List[ProductTag] = []
     image: Optional[ProductImage] = None
-    attributes: List[ProductAttribute] = []
+    attributes: List[ProductVariationAttribute] = []
     meta_data: List[MetaData] = []
 
 
